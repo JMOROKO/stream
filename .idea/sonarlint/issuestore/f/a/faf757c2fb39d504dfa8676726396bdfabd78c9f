@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8Ï¼ºüô1J$64ffae8c-4ae6-4983-85e1-4f981a72f305
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÈĞ»8Ï¼ºüô1J$9825ff7c-4d93-43d7-98c6-655e83d7f0c3
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8Ï¼ºüô1J$473df891-f54b-4855-8613-f1e9cd9c598c
+ª
+java:S36551"bCall "employeSalaireMax.isPresent()" or "!employeSalaireMax.isEmpty()" before accessing the value.(„íšüÿÿÿÿ8¸«Çüô1J$9865e91c-60c9-42e4-993f-c34ddd13ff2f
+ª
+java:S3655$"bCall "employeSalaireMin.isPresent()" or "!employeSalaireMin.isEmpty()" before accessing the value.(·ˆŒÍÿÿÿÿÿ8¸«Çüô1J$b346e62b-94a5-4c68-b62e-1a91bc56e6d9
+m	java:S106"+Replace this use of System.out by a logger.(¶´Á8ß¼ºüô1J$fbf37759-ddb8-4d6a-a57e-79fdc7c68fe9
+r	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ß¼ºüô1J$8b5b73aa-8c2e-45f3-b63a-2eac04d5ddd0
+r	java:S106$"+Replace this use of System.out by a logger.(·ˆŒÍÿÿÿÿÿ8ß¼ºüô1J$aa6bb7b6-bb8b-4746-835c-bbc0ffed0137
+r	java:S106+"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ß¼ºüô1J$0cbaa57a-b92b-4f47-8fcb-6e4af47b2e16
+r	java:S1061"+Replace this use of System.out by a logger.(„íšüÿÿÿÿ8¯ì»üô1J$819cd956-4aed-46b9-a376-fef2b70e121b
+r	java:S1067"+Replace this use of System.out by a logger.(¶—êøÿÿÿÿ8¿ÖÁüô1J$c2ab0c13-53df-47c0-a094-3989668ee36f
